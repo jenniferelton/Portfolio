@@ -1,4 +1,9 @@
 
 body {
 font-family: 'Playfair Display', serif;
+background-image: url('../images/oregon-coast.jpg');
+background-size: cover;
+background-position: 30% 30%;
+
+
 }
